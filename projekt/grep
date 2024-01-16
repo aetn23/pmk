@@ -1,0 +1,6 @@
+Traceback (most recent call last):
+  File "/home/mikolaj/Desktop/Studia/2023z/pmk/pmk/projekt/move_mouse.py", line 13, in <module>
+    main()
+  File "/home/mikolaj/Desktop/Studia/2023z/pmk/pmk/projekt/move_mouse.py", line 5, in main
+    for line in stm32_dev:
+KeyboardInterrupt
